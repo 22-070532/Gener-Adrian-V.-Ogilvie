@@ -23,7 +23,7 @@ body {
 }
 
 #main {
-    background-image: url(/img/lh\ -\ Copy.jpg);
+    background-image: url(./img/lh\ -\ Copy.jpg);
     min-height: 70vh;
     background-position: bottom center;
     background-size: cover;
@@ -198,7 +198,7 @@ nav {
 }
 #questions {
     min-height: 500px;
-    background-image: url(/Products/bgfood_waifu2x_photo_noise2_scale.png);
+    background-image: url(./Products/bgfood_waifu2x_photo_noise2_scale.png);
     background-position: bottom center;
     background-size: cover;
     font-family: d;
